@@ -1,2 +1,3 @@
 # tacotron2
- this contains updates to the tacotron folder to work on current version
+This includes the use of CoquiTTS where tacotron2 was used to train the LJSPEECH dataset... 
+necessary documentation of CoquiTTS can be found in their website
